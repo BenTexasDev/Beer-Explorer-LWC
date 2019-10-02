@@ -1,0 +1,9 @@
+sfdx force:org:list  -> List all the orgs that you have connected.
+sfdx force:org:list --all  -> see all envionments
+sfdx force:org:open -> will open the default org
+sfdx force:limits --help  -> more commands
+sfdx force:limits:api:display  --> display the current orgs limits.
+sfdx force:source --help --> will give you all the commands.
+sfdx force --help  --> WILL GIVE U LIST OF ALL COMMANDS
+sfdx force:lightning --help
+sfdx force:lightning:component:create -n Demo --type lwc -d force-app/main/default/lwc
